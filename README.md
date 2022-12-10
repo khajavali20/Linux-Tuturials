@@ -1,8 +1,10 @@
 # Welcome to github
 
 * git hub commands:
-   my User Id : khajavali20
-   my passwdis: 
+  
+  my User Id : khajavali20
+  
+  my passwdis: 
   
 * To Install the github we should open the linux terminal on putty after that we give some cammands to install that 
    1. sudo apt-get install -y git 
