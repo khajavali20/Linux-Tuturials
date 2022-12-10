@@ -17,7 +17,7 @@
    6. we have to go insde the README.md file we use command ``cd README.md``
    7. giving the data by using vi,vim,nano editors for that command is 
       ``Example: vim README.md 
-
+      
       ``![Capture](https://user-images.githubusercontent.com/95695081/206841024-4014e68c-0140-4fb7-aa62-2a40ce15d1f9.PNG)``
       
-      
+      ``![Capture](https://user-images.githubusercontent.com/95695081/206841024-4014e68c-0140-4fb7-aa62-2a40ce15d1f9.PNG)``
